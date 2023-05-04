@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EgyLMS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/EgyLMS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
